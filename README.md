@@ -1,6 +1,7 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](C:\Users\ASUS\Desktop\Video Calling Chat app\StreamSync\frontend\public\Screenshot 2025-08-15 192037.png)
+![Demo App](/frontend/public/Screenshot-2025-08-15-192037.png)
+
 
 Highlights:
 
