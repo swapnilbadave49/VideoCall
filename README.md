@@ -1,6 +1,6 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/StreamSync\frontend\public\Screenshot 2025-08-15 192037.png)
 
 Highlights:
 
